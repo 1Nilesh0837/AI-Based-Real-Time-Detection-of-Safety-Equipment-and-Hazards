@@ -98,4 +98,11 @@ Upload only code, folder structure, and data.yaml.
 Add dataset download link inside README (like above).
 
 Add weight download link (if needed) using Google Drive.
+
+PDF OF OUR PROJECT
+https://drive.google.com/file/d/1X3cN0pXmv19SbAIquGjNZZi06W8fxOu6/view?usp=drivesdk
+
+REPORT FILE OF THE PROJECT
+https://drive.google.com/file/d/1AURZaezylKE-rQnjWKCx6_etgXhbVc1_/view?usp=drivesdk
+
 ```
