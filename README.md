@@ -91,17 +91,6 @@ Large datasets slow down GitHub repos and often exceed the size limit.
 ❌ Do NOT upload large weight files (over 50–100 MB)
 GitHub does not allow files >100MB without Git LFS, which complicates things.
 
-✔️ Recommended:
-
-Upload only code, folder structure, and data.yaml.
-
-Add dataset download link inside README (like above).
-
-Add weight download link (if needed) using Google Drive.
-
-PDF OF OUR PROJECT
-https://drive.google.com/file/d/1X3cN0pXmv19SbAIquGjNZZi06W8fxOu6/view?usp=drivesdk
-
 REPORT FILE OF THE PROJECT
 https://drive.google.com/file/d/1AURZaezylKE-rQnjWKCx6_etgXhbVc1_/view?usp=drivesdk
 
