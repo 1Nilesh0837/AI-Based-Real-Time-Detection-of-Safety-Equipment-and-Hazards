@@ -1,6 +1,6 @@
 # YOLO 7-Class Safety Equipment Detector
 
-![Dashboard Preview](assets/dashboard_preview.png)
+![Dashboard Preview](assets/dashboard_final.png)
 
 This project uses YOLO to detect 7 distinct classes of safety and emergency equipment in industrial and office environments.
 
